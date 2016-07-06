@@ -1,0 +1,10 @@
+StepperOneRev.cpp
+-I ../../libPropelleruino
+-L ../../libPropelleruino
+>compiler=C++
+>memtype=cmm main ram compact
+>optimize=-Os
+>-fno-exceptions
+>-fno-rtti
+>linker::-lPropelleruino
+>BOARD::GENERIC

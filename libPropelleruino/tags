@@ -1,0 +1,1003 @@
+!_TAG_FILE_FORMAT	1	/original ctags format/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+main	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/libPropelleruino.cpp	/^int main(void)$/
+constructor	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::constructor(int16_t w, int16_t h) {$/
+drawCircle	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawCircle(int16_t x0, int16_t y0, int16_t r, $/
+drawCircleHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawCircleHelper( int16_t x0, int16_t y0,$/
+fillCircle	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::fillCircle(int16_t x0, int16_t y0, int16_t r, $/
+fillCircleHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::fillCircleHelper(int16_t x0, int16_t y0, int16_t r,$/
+drawLine	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawLine(int16_t x0, int16_t y0, $/
+drawRect	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawRect(int16_t x, int16_t y, $/
+drawFastVLine	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawFastVLine(int16_t x, int16_t y, $/
+drawFastHLine	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawFastHLine(int16_t x, int16_t y, $/
+fillRect	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::fillRect(int16_t x, int16_t y, int16_t w, int16_t h, $/
+fillScreen	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::fillScreen(uint16_t color) {$/
+drawRoundRect	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawRoundRect(int16_t x, int16_t y, int16_t w,$/
+fillRoundRect	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::fillRoundRect(int16_t x, int16_t y, int16_t w,$/
+drawTriangle	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawTriangle(int16_t x0, int16_t y0,$/
+fillTriangle	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::fillTriangle ( int16_t x0, int16_t y0,$/
+drawBitmap	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawBitmap(int16_t x, int16_t y, $/
+write	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^size_t Adafruit_GFX::write(uint8_t c) {$/
+drawChar	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::drawChar(int16_t x, int16_t y, unsigned char c,$/
+setCursor	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::setCursor(int16_t x, int16_t y) {$/
+setTextSize	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::setTextSize(uint8_t s) {$/
+setTextColor	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::setTextColor(uint16_t c) {$/
+setTextColor	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^ void Adafruit_GFX::setTextColor(uint16_t c, uint16_t b) {$/
+setTextWrap	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::setTextWrap(boolean w) {$/
+getRotation	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^uint8_t Adafruit_GFX::getRotation(void) {$/
+setRotation	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::setRotation(uint8_t x) {$/
+invertDisplay	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^void Adafruit_GFX::invertDisplay(boolean i) {$/
+width	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^int16_t Adafruit_GFX::width(void) { $/
+height	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.cpp	/^int16_t Adafruit_GFX::height(void) { $/
+_ADAFRUIT_GFX_H	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	17
+swap	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	21
+Adafruit_GFX	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^class Adafruit_GFX : public Print {$/
+WIDTH	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  int16_t  WIDTH, HEIGHT;   \/\/ this is the 'raw' display w\/h - never changes$/
+HEIGHT	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  int16_t  WIDTH, HEIGHT;   \/\/ this is the 'raw' display w\/h - never changes$/
+_width	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  int16_t  _width, _height; \/\/ dependent on rotation$/
+_height	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  int16_t  _width, _height; \/\/ dependent on rotation$/
+cursor_x	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  int16_t  cursor_x, cursor_y;$/
+cursor_y	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  int16_t  cursor_x, cursor_y;$/
+textcolor	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  uint16_t textcolor, textbgcolor;$/
+textbgcolor	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  uint16_t textcolor, textbgcolor;$/
+textsize	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  uint8_t  textsize;$/
+rotation	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  uint8_t  rotation;$/
+wrap	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Adafruit_GFX.h	/^  boolean  wrap; \/\/ If set, 'wrap' text at right edge of display$/
+Arduino_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	10
+ARDUINO	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	23
+HIGH	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	25
+LOW	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	26
+INPUT	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	28
+OUTPUT	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	29
+INPUT_PULLUP	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	30
+true	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	32
+false	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	33
+PI	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	35
+HALF_PI	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	36
+TWO_PI	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	37
+DEG_TO_RAD	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	38
+RAD_TO_DEG	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	39
+SERIAL	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	41
+DISPLAY	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	42
+LSBFIRST	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	44
+MSBFIRST	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	45
+MSBPRE	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	48
+LSBPRE	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	49
+MSBPOST	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	50
+LSBPOST	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	51
+MSBPRE	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	52
+CHANGE	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	54
+FALLING	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	55
+RISING	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	56
+abs	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	60
+min	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	63
+max	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	64
+abs	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	65
+constrain	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	66
+round	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	67
+radians	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	68
+degrees	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	69
+sq	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	70
+clockCyclesPerMicrosecond	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	72
+clockCyclesToMicroseconds	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	73
+microsecondsToClockCycles	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	74
+lowByte	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	76
+highByte	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	77
+bitRead	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	79
+bitSet	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	80
+bitClear	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	81
+bitWrite	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	82
+word	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	/^typedef uint16_t word;$/
+bit	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	86
+boolean	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	/^typedef uint8_t boolean;$/
+byte	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	/^typedef uint8_t byte;$/
+pgm_read_byte	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	111
+A0	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	112
+word	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Arduino.h	128
+OP_NOOP	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	22
+OP_DIGIT0	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	23
+OP_DIGIT1	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	24
+OP_DIGIT2	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	25
+OP_DIGIT3	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	26
+OP_DIGIT4	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	27
+OP_DIGIT5	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	28
+OP_DIGIT6	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	29
+OP_DIGIT7	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	30
+OP_DECODEMODE	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	31
+OP_INTENSITY	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	32
+OP_SCANLIMIT	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	33
+OP_SHUTDOWN	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	34
+OP_DISPLAYTEST	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	35
+Max72xxPanel	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^Max72xxPanel::Max72xxPanel(int clkPin, int csPin, int sdaPin, int hDisplays, int vDisplays) $/
+shutdown	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::shutdown(boolean b) {$/
+setIntensity	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::setIntensity(int intensity) {$/
+drawPixel	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::drawPixel(int16_t x, int16_t y, uint16_t color) {$/
+drawLine	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::drawLine(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint16_t color) {$/
+drawLineHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::drawLineHelper(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint16_t color) {$/
+fillScreen	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::fillScreen(uint16_t color) {$/
+doubleBuffering	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::doubleBuffering(boolean enabled) {$/
+spiTransfer	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.cpp	/^void Max72xxPanel::spiTransfer(byte opcode, byte data) {$/
+Max72xxPanel_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	20
+Max72xxPanel	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^class Max72xxPanel : public Adafruit_GFX {$/
+_spi	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^  SPI _spi;$/
+SCLK	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^  uint8_t SCLK; \/\/ serial clock (output from master)$/
+MOSI	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^  uint8_t MOSI; \/\/ master output, slave input (output from master)$/
+SS	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^  uint8_t SS;   \/\/ slave select (active low, output from master)$/
+buffer	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^  byte *buffer;$/
+doubleBuffer	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^  boolean doubleBuffer;$/
+bufferSize	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Max72xxPanel.h	/^  int bufferSize;$/
+write	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::write(const uint8_t *buffer, size_t size)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(const __FlashStringHelper *ifsh)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(const String &s)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(const char str[])$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(char c)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(unsigned char b, int base)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(int n, int base)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(unsigned int n, int base)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(long n, int base)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(unsigned long n, int base)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(double n, int digits)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(const __FlashStringHelper *ifsh)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::print(const Printable& x)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(void)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(const String &s)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(const char c[])$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(char c)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(unsigned char b, int base)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(int num, int base)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(unsigned int num, int base)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(long num, int base)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(unsigned long num, int base)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(double num, int digits)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::println(const Printable& x)$/
+printNumber	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::printNumber(unsigned long n, uint8_t base) {$/
+printFloat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.cpp	/^size_t Print::printFloat(double number, uint8_t digits) $/
+Print_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	21
+DEC	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	29
+HEX	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	30
+OCT	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	31
+BIN	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	32
+Print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	/^class Print$/
+write_error	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	/^    int write_error;$/
+setWriteError	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	/^    void setWriteError(int err = 1) { write_error = err; }$/
+Print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	/^    Print() : write_error(0) {}$/
+getWriteError	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	/^    int getWriteError() { return write_error; }$/
+clearWriteError	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	/^    void clearWriteError() { setWriteError(0); }$/
+write	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Print.h	/^    size_t write(const char *str) { return write((const uint8_t *)str, strlen(str)); }$/
+Printable_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Printable.h	21
+Printable	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Printable.h	/^class Printable$/
+INLINE__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	10
+PostEffect__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	11
+INLINE__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	13
+tmp__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^static int32_t tmp__;$/
+PostEffect__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	15
+Min__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^INLINE__ int32_t Min__(int32_t a, int32_t b) { return a < b ? a : b; }$/
+Max__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^INLINE__ int32_t Max__(int32_t a, int32_t b) { return a > b ? a : b; }$/
+Rotl__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^INLINE__ int32_t Rotl__(uint32_t a, uint32_t b) { return (a<<b) | (a>>(32-b)); }$/
+Rotr__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^INLINE__ int32_t Rotr__(uint32_t a, uint32_t b) { return (a>>b) | (a<<(32-b)); }$/
+Shr__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^INLINE__ int32_t Shr__(uint32_t a, uint32_t b) { return (a>>b); }$/
+Start	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^int32_t SPI::Start(int32_t _clockdelay, int32_t _clockstate)$/
+Shiftout	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^int32_t SPI::Shiftout(int32_t Dpin, int32_t Cpin, int32_t Mode, int32_t Bits, int32_t Value)$/
+Shiftin	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^int32_t SPI::Shiftin(int32_t Dpin, int32_t Cpin, int32_t Mode, int32_t Bits)$/
+Postclock	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^int32_t SPI::Postclock(int32_t _cpin)$/
+Preclock	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.cpp	/^int32_t SPI::Preclock(int32_t _cpin)$/
+SPI_H_Defined__	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	7
+SPI	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^class SPI {$/
+Msbpre	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  static const int Msbpre = 0;$/
+Lsbpre	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  static const int Lsbpre = 1;$/
+Msbpost	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  static const int Msbpost = 2;$/
+Lsbpost	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  static const int Lsbpost = 3;$/
+Lsbfirst	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  static const int Lsbfirst = 4;$/
+Msbfirst	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  static const int Msbfirst = 5;$/
+Clockdelay	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  int32_t	Clockdelay, Clockstate;$/
+Clockstate	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/SPI.h	/^  int32_t	Clockdelay, Clockstate;$/
+SERVO_MIN	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	14
+SERVO_MAX	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	15
+stack	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^unsigned int stack[(160 + (90 * 4)) \/ 4];$/
+_slots	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^volatile Servo::Properties Servo::_slots[MAX_SERVOS];$/
+_attachedCount	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^volatile int16_t Servo::_attachedCount = 0;$/
+_servoCount	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^volatile int16_t Servo::_servoCount = 0;$/
+_servoCog	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^volatile unsigned int Servo::_servoCog = 0;$/
+_lockID	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^volatile unsigned int Servo::_lockID = locknew();$/
+Servo	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^Servo::Servo()$/
+attach	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^uint8_t Servo::attach(int16_t pin, int16_t min, int16_t max)$/
+detach	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^void Servo::detach()$/
+write	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^void Servo::write(int16_t value)$/
+writeMicroseconds	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^void Servo::writeMicroseconds(int16_t value)$/
+read	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^int16_t Servo::read() \/\/ return the value as degrees$/
+readMicroseconds	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^int16_t Servo::readMicroseconds()$/
+attached	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^bool Servo::attached()$/
+setRamp	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^void Servo::setRamp(int16_t stepSize)$/
+servoLoop	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.cpp	/^void Servo::servoLoop(void *par)$/
+Servo_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	31
+MAX_SERVOS	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	35
+INVALID_SERVO	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	36
+MIN_PULSE_WIDTH	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	37
+MAX_PULSE_WIDTH	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	38
+DEFAULT_PULSE_WIDTH	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	39
+Servo	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^class Servo$/
+Properties	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  class Properties$/
+_pin	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^      int16_t _pin;$/
+_currentPulse	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^      int16_t _currentPulse;$/
+_previousPulse	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^      int16_t _previousPulse;$/
+_stepSize	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^      int16_t _stepSize;$/
+Properties	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^      Properties() : _pin(-1), _currentPulse(DEFAULT_PULSE_WIDTH), _previousPulse(DEFAULT_PULSE_WIDTH), _stepSize(2000) { }$/
+_slots	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  static volatile Properties _slots[MAX_SERVOS];$/
+_attachedCount	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  static volatile int16_t _attachedCount;$/
+_servoCount	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  static volatile int16_t _servoCount;$/
+_servoCog	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  static volatile unsigned int _servoCog;  \/\/ Cog initialazied to zero$/
+_lockID	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  static volatile unsigned int _lockID;    \/\/ Lock ID $/
+_idx	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  uint8_t _idx;                     \/\/ index into the array of properties$/
+_min	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  int16_t _min;                     \/\/ minimum is this value times 4 added to MIN_PULSE_WIDTH    $/
+_max	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Servo.h	/^  int16_t _max;                     \/\/ maximum is this value times 4 added to MAX_PULSE_WIDTH$/
+PARSE_TIMEOUT	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	26
+NO_SKIP_CHAR	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	27
+timedRead	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^int Stream::timedRead()$/
+timedPeek	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^int Stream::timedPeek()$/
+peekNextDigit	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^int Stream::peekNextDigit()$/
+setTimeout	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^void Stream::setTimeout(unsigned long timeout)  \/\/ sets the maximum number of milliseconds to wait$/
+find	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^bool  Stream::find(char *target)$/
+find	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^bool Stream::find(char *target, size_t length)$/
+findUntil	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^bool  Stream::findUntil(char *target, char *terminator)$/
+findUntil	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^bool Stream::findUntil(char *target, size_t targetLen, char *terminator, size_t termLen)$/
+parseInt	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^long Stream::parseInt()$/
+parseInt	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^long Stream::parseInt(char skipChar)$/
+parseFloat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^float Stream::parseFloat()$/
+parseFloat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^float Stream::parseFloat(char skipChar){$/
+readBytes	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^size_t Stream::readBytes(char *buffer, size_t length)$/
+readBytesUntil	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^size_t Stream::readBytesUntil(char terminator, char *buffer, size_t length)$/
+readString	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^String Stream::readString()$/
+readStringUntil	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.cpp	/^String Stream::readStringUntil(char terminator)$/
+Stream_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.h	23
+Stream	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.h	/^class Stream : public Print$/
+_timeout	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.h	/^    unsigned long _timeout;      \/\/ number of milliseconds to wait for the next char before aborting timed read$/
+_startMillis	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.h	/^    unsigned long _startMillis;  \/\/ used for timeout measurement$/
+Stream	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stream.h	/^    Stream() {_timeout=1000;}$/
+Character_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	22
+isAlphaNumeric	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isAlphaNumeric(int c) $/
+isAlpha	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isAlpha(int c)$/
+isAscii	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isAscii(int c)$/
+isWhitespace	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isWhitespace(int c)$/
+isControl	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isControl(int c)$/
+isDigit	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isDigit(int c)$/
+isGraph	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isGraph(int c)$/
+isLowerCase	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isLowerCase(int c)$/
+isPrintable	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isPrintable(int c)$/
+isPunct	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isPunct(int c)$/
+isSpace	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isSpace(int c)$/
+isUpperCase	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isUpperCase(int c)$/
+isHexadecimalDigit	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline boolean isHexadecimalDigit(int c)$/
+toAscii	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline int toAscii(int c)$/
+toLowerCase	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline int toLowerCase(int c)$/
+toUpperCase	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WCharacter.h	/^inline int toUpperCase(int c)$/
+randomSeed	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WMath.cpp	/^void randomSeed(unsigned int seed)$/
+random	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WMath.cpp	/^long random(long howbig)$/
+random	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WMath.cpp	/^long random(long howsmall, long howbig)$/
+map	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WMath.cpp	/^long map(long x, long in_min, long in_max, long out_min, long out_max)$/
+makeWord	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WMath.cpp	/^unsigned int makeWord(unsigned int w) { return w; }$/
+makeWord	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WMath.cpp	/^unsigned int makeWord(unsigned char h, unsigned char l) { return (h << 8) | l; }/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(const char *cstr)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(const String &value)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(String &&rval)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(StringSumHelper &&rval)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(char c)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(unsigned char value, unsigned char base)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(int value, unsigned char base)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(unsigned int value, unsigned char base)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(long value, unsigned char base)$/
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::String(unsigned long value, unsigned char base)$/
+~String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String::~String()$/
+init	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^inline void String::init(void)$/
+invalidate	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::invalidate(void)$/
+reserve	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::reserve(unsigned int size)$/
+changeBuffer	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::changeBuffer(unsigned int maxStrLen)$/
+copy	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String & String::copy(const char *cstr, unsigned int length)$/
+move	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::move(String &rhs)$/
+operator =	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String & String::operator = (const String &rhs)$/
+operator =	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String & String::operator = (String &&rval)$/
+operator =	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String & String::operator = (StringSumHelper &&rval)$/
+operator =	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String & String::operator = (const char *cstr)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(const String &s)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(const char *cstr, unsigned int length)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(const char *cstr)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(char c)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(unsigned char num)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(int num)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(unsigned int num)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(long num)$/
+concat	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::concat(unsigned long num)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, const String &rhs)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, const char *cstr)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, char c)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, unsigned char num)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, int num)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, unsigned int num)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, long num)$/
+operator +	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^StringSumHelper & operator + (const StringSumHelper &lhs, unsigned long num)$/
+compareTo	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::compareTo(const String &s) const$/
+equals	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::equals(const String &s2) const$/
+equals	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::equals(const char *cstr) const$/
+operator <	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::operator<(const String &rhs) const$/
+operator >	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::operator>(const String &rhs) const$/
+operator <=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::operator<=(const String &rhs) const$/
+operator >=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::operator>=(const String &rhs) const$/
+equalsIgnoreCase	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::equalsIgnoreCase( const String &s2 ) const$/
+startsWith	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::startsWith( const String &s2 ) const$/
+startsWith	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::startsWith( const String &s2, unsigned int offset ) const$/
+endsWith	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^unsigned char String::endsWith( const String &s2 ) const$/
+charAt	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^char String::charAt(unsigned int loc) const$/
+setCharAt	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::setCharAt(unsigned int loc, char c) $/
+operator []	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^char & String::operator[](unsigned int index)$/
+operator []	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^char String::operator[]( unsigned int index ) const$/
+getBytes	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::getBytes(unsigned char *buf, unsigned int bufsize, unsigned int index) const$/
+indexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::indexOf(char c) const$/
+indexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::indexOf( char ch, unsigned int fromIndex ) const$/
+indexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::indexOf(const String &s2) const$/
+indexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::indexOf(const String &s2, unsigned int fromIndex) const$/
+lastIndexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::lastIndexOf( char theChar ) const$/
+lastIndexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::lastIndexOf(char ch, unsigned int fromIndex) const$/
+lastIndexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::lastIndexOf(const String &s2) const$/
+lastIndexOf	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^int String::lastIndexOf(const String &s2, unsigned int fromIndex) const$/
+substring	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String String::substring( unsigned int left ) const$/
+substring	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^String String::substring(unsigned int left, unsigned int right) const$/
+replace	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::replace(char find, char replace)$/
+replace	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::replace(const String& find, const String& replace)$/
+toLowerCase	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::toLowerCase(void)$/
+toUpperCase	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::toUpperCase(void)$/
+trim	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^void String::trim(void)$/
+toInt	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.cpp	/^long String::toInt(void) const$/
+String_class_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	23
+F	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	38
+String	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^class String$/
+StringIfHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	void StringIfHelper() const {}$/
+length	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	inline unsigned int length(void) const {return len;}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (const String &rhs)	{concat(rhs); return (*this);}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (const char *cstr)		{concat(cstr); return (*this);}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (char c)			{concat(c); return (*this);}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (unsigned char num)		{concat(num); return (*this);}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (int num)			{concat(num); return (*this);}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (unsigned int num)		{concat(num); return (*this);}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (long num)			{concat(num); return (*this);}$/
+operator +=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	String & operator += (unsigned long num)	{concat(num); return (*this);}$/
+operator StringIfHelperType	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	operator StringIfHelperType() const { return buffer ? &String::StringIfHelper : 0; }$/
+operator ==	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	unsigned char operator == (const String &rhs) const {return equals(rhs);}$/
+operator ==	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	unsigned char operator == (const char *cstr) const {return equals(cstr);}$/
+operator !=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	unsigned char operator != (const String &rhs) const {return !equals(rhs);}$/
+operator !=	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	unsigned char operator != (const char *cstr) const {return !equals(cstr);}$/
+toCharArray	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	void toCharArray(char *buf, unsigned int bufsize, unsigned int index=0) const$/
+buffer	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	char *buffer;	        \/\/ the actual char array$/
+capacity	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	unsigned int capacity;  \/\/ the array length minus one (for the '\\0')$/
+len	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	unsigned int len;       \/\/ the String length (not counting the '\\0')$/
+flags	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	unsigned char flags;    \/\/ unused, for future features$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^class StringSumHelper : public String$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(const String &s) : String(s) {}$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(const char *p) : String(p) {}$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(char c) : String(c) {}$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(unsigned char num) : String(num) {}$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(int num) : String(num) {}$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(unsigned int num) : String(num) {}$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(long num) : String(num) {}$/
+StringSumHelper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/WString.h	/^	StringSumHelper(unsigned long num) : String(num) {}$/
+Binary_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	2
+B0	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	4
+B00	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	5
+B000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	6
+B0000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	7
+B00000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	8
+B000000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	9
+B0000000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	10
+B00000000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	11
+B1	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	12
+B01	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	13
+B001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	14
+B0001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	15
+B00001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	16
+B000001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	17
+B0000001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	18
+B00000001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	19
+B10	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	20
+B010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	21
+B0010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	22
+B00010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	23
+B000010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	24
+B0000010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	25
+B00000010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	26
+B11	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	27
+B011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	28
+B0011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	29
+B00011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	30
+B000011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	31
+B0000011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	32
+B00000011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	33
+B100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	34
+B0100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	35
+B00100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	36
+B000100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	37
+B0000100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	38
+B00000100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	39
+B101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	40
+B0101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	41
+B00101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	42
+B000101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	43
+B0000101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	44
+B00000101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	45
+B110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	46
+B0110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	47
+B00110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	48
+B000110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	49
+B0000110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	50
+B00000110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	51
+B111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	52
+B0111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	53
+B00111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	54
+B000111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	55
+B0000111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	56
+B00000111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	57
+B1000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	58
+B01000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	59
+B001000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	60
+B0001000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	61
+B00001000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	62
+B1001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	63
+B01001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	64
+B001001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	65
+B0001001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	66
+B00001001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	67
+B1010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	68
+B01010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	69
+B001010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	70
+B0001010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	71
+B00001010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	72
+B1011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	73
+B01011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	74
+B001011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	75
+B0001011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	76
+B00001011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	77
+B1100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	78
+B01100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	79
+B001100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	80
+B0001100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	81
+B00001100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	82
+B1101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	83
+B01101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	84
+B001101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	85
+B0001101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	86
+B00001101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	87
+B1110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	88
+B01110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	89
+B001110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	90
+B0001110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	91
+B00001110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	92
+B1111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	93
+B01111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	94
+B001111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	95
+B0001111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	96
+B00001111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	97
+B10000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	98
+B010000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	99
+B0010000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	100
+B00010000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	101
+B10001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	102
+B010001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	103
+B0010001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	104
+B00010001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	105
+B10010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	106
+B010010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	107
+B0010010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	108
+B00010010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	109
+B10011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	110
+B010011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	111
+B0010011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	112
+B00010011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	113
+B10100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	114
+B010100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	115
+B0010100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	116
+B00010100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	117
+B10101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	118
+B010101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	119
+B0010101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	120
+B00010101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	121
+B10110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	122
+B010110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	123
+B0010110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	124
+B00010110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	125
+B10111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	126
+B010111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	127
+B0010111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	128
+B00010111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	129
+B11000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	130
+B011000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	131
+B0011000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	132
+B00011000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	133
+B11001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	134
+B011001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	135
+B0011001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	136
+B00011001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	137
+B11010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	138
+B011010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	139
+B0011010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	140
+B00011010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	141
+B11011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	142
+B011011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	143
+B0011011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	144
+B00011011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	145
+B11100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	146
+B011100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	147
+B0011100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	148
+B00011100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	149
+B11101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	150
+B011101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	151
+B0011101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	152
+B00011101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	153
+B11110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	154
+B011110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	155
+B0011110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	156
+B00011110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	157
+B11111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	158
+B011111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	159
+B0011111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	160
+B00011111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	161
+B100000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	162
+B0100000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	163
+B00100000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	164
+B100001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	165
+B0100001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	166
+B00100001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	167
+B100010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	168
+B0100010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	169
+B00100010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	170
+B100011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	171
+B0100011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	172
+B00100011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	173
+B100100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	174
+B0100100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	175
+B00100100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	176
+B100101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	177
+B0100101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	178
+B00100101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	179
+B100110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	180
+B0100110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	181
+B00100110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	182
+B100111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	183
+B0100111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	184
+B00100111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	185
+B101000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	186
+B0101000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	187
+B00101000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	188
+B101001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	189
+B0101001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	190
+B00101001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	191
+B101010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	192
+B0101010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	193
+B00101010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	194
+B101011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	195
+B0101011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	196
+B00101011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	197
+B101100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	198
+B0101100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	199
+B00101100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	200
+B101101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	201
+B0101101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	202
+B00101101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	203
+B101110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	204
+B0101110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	205
+B00101110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	206
+B101111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	207
+B0101111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	208
+B00101111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	209
+B110000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	210
+B0110000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	211
+B00110000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	212
+B110001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	213
+B0110001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	214
+B00110001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	215
+B110010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	216
+B0110010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	217
+B00110010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	218
+B110011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	219
+B0110011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	220
+B00110011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	221
+B110100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	222
+B0110100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	223
+B00110100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	224
+B110101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	225
+B0110101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	226
+B00110101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	227
+B110110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	228
+B0110110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	229
+B00110110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	230
+B110111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	231
+B0110111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	232
+B00110111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	233
+B111000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	234
+B0111000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	235
+B00111000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	236
+B111001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	237
+B0111001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	238
+B00111001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	239
+B111010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	240
+B0111010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	241
+B00111010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	242
+B111011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	243
+B0111011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	244
+B00111011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	245
+B111100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	246
+B0111100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	247
+B00111100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	248
+B111101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	249
+B0111101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	250
+B00111101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	251
+B111110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	252
+B0111110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	253
+B00111110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	254
+B111111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	255
+B0111111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	256
+B00111111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	257
+B1000000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	258
+B01000000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	259
+B1000001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	260
+B01000001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	261
+B1000010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	262
+B01000010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	263
+B1000011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	264
+B01000011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	265
+B1000100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	266
+B01000100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	267
+B1000101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	268
+B01000101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	269
+B1000110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	270
+B01000110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	271
+B1000111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	272
+B01000111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	273
+B1001000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	274
+B01001000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	275
+B1001001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	276
+B01001001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	277
+B1001010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	278
+B01001010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	279
+B1001011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	280
+B01001011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	281
+B1001100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	282
+B01001100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	283
+B1001101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	284
+B01001101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	285
+B1001110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	286
+B01001110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	287
+B1001111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	288
+B01001111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	289
+B1010000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	290
+B01010000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	291
+B1010001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	292
+B01010001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	293
+B1010010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	294
+B01010010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	295
+B1010011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	296
+B01010011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	297
+B1010100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	298
+B01010100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	299
+B1010101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	300
+B01010101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	301
+B1010110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	302
+B01010110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	303
+B1010111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	304
+B01010111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	305
+B1011000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	306
+B01011000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	307
+B1011001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	308
+B01011001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	309
+B1011010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	310
+B01011010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	311
+B1011011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	312
+B01011011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	313
+B1011100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	314
+B01011100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	315
+B1011101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	316
+B01011101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	317
+B1011110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	318
+B01011110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	319
+B1011111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	320
+B01011111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	321
+B1100000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	322
+B01100000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	323
+B1100001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	324
+B01100001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	325
+B1100010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	326
+B01100010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	327
+B1100011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	328
+B01100011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	329
+B1100100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	330
+B01100100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	331
+B1100101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	332
+B01100101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	333
+B1100110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	334
+B01100110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	335
+B1100111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	336
+B01100111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	337
+B1101000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	338
+B01101000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	339
+B1101001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	340
+B01101001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	341
+B1101010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	342
+B01101010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	343
+B1101011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	344
+B01101011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	345
+B1101100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	346
+B01101100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	347
+B1101101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	348
+B01101101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	349
+B1101110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	350
+B01101110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	351
+B1101111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	352
+B01101111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	353
+B1110000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	354
+B01110000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	355
+B1110001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	356
+B01110001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	357
+B1110010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	358
+B01110010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	359
+B1110011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	360
+B01110011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	361
+B1110100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	362
+B01110100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	363
+B1110101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	364
+B01110101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	365
+B1110110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	366
+B01110110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	367
+B1110111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	368
+B01110111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	369
+B1111000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	370
+B01111000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	371
+B1111001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	372
+B01111001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	373
+B1111010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	374
+B01111010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	375
+B1111011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	376
+B01111011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	377
+B1111100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	378
+B01111100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	379
+B1111101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	380
+B01111101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	381
+B1111110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	382
+B01111110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	383
+B1111111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	384
+B01111111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	385
+B10000000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	386
+B10000001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	387
+B10000010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	388
+B10000011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	389
+B10000100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	390
+B10000101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	391
+B10000110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	392
+B10000111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	393
+B10001000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	394
+B10001001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	395
+B10001010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	396
+B10001011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	397
+B10001100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	398
+B10001101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	399
+B10001110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	400
+B10001111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	401
+B10010000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	402
+B10010001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	403
+B10010010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	404
+B10010011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	405
+B10010100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	406
+B10010101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	407
+B10010110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	408
+B10010111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	409
+B10011000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	410
+B10011001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	411
+B10011010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	412
+B10011011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	413
+B10011100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	414
+B10011101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	415
+B10011110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	416
+B10011111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	417
+B10100000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	418
+B10100001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	419
+B10100010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	420
+B10100011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	421
+B10100100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	422
+B10100101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	423
+B10100110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	424
+B10100111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	425
+B10101000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	426
+B10101001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	427
+B10101010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	428
+B10101011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	429
+B10101100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	430
+B10101101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	431
+B10101110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	432
+B10101111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	433
+B10110000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	434
+B10110001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	435
+B10110010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	436
+B10110011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	437
+B10110100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	438
+B10110101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	439
+B10110110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	440
+B10110111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	441
+B10111000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	442
+B10111001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	443
+B10111010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	444
+B10111011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	445
+B10111100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	446
+B10111101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	447
+B10111110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	448
+B10111111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	449
+B11000000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	450
+B11000001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	451
+B11000010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	452
+B11000011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	453
+B11000100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	454
+B11000101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	455
+B11000110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	456
+B11000111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	457
+B11001000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	458
+B11001001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	459
+B11001010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	460
+B11001011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	461
+B11001100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	462
+B11001101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	463
+B11001110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	464
+B11001111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	465
+B11010000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	466
+B11010001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	467
+B11010010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	468
+B11010011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	469
+B11010100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	470
+B11010101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	471
+B11010110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	472
+B11010111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	473
+B11011000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	474
+B11011001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	475
+B11011010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	476
+B11011011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	477
+B11011100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	478
+B11011101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	479
+B11011110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	480
+B11011111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	481
+B11100000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	482
+B11100001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	483
+B11100010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	484
+B11100011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	485
+B11100100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	486
+B11100101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	487
+B11100110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	488
+B11100111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	489
+B11101000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	490
+B11101001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	491
+B11101010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	492
+B11101011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	493
+B11101100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	494
+B11101101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	495
+B11101110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	496
+B11101111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	497
+B11110000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	498
+B11110001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	499
+B11110010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	500
+B11110011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	501
+B11110100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	502
+B11110101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	503
+B11110110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	504
+B11110111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	505
+B11111000	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	506
+B11111001	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	507
+B11111010	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	508
+B11111011	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	509
+B11111100	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	510
+B11111101	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	511
+B11111110	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	512
+B11111111	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/binary.h	513
+FONT5X7_H	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/glcdfont.c	2
+font	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/glcdfont.c	/^static unsigned char  font[] = {$/
+strreverse	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/nonstdlib.cpp	/^void strreverse(char* begin, char* end)$/
+num	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/nonstdlib.cpp	/^static char num[] = "0123456789abcdefghijklmnopqrstuvwxyz";	$/
+itoa	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/nonstdlib.cpp	/^void itoa(int value, char* str, int base)$/
+utoa	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/nonstdlib.cpp	/^void utoa(unsigned int value, char* str, int base)$/
+ltoa	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/nonstdlib.cpp	/^void ltoa(long value, char* str, int base)$/
+ultoa	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/nonstdlib.cpp	/^void ultoa(unsigned long value, char * str, int base)$/
+_NONSTDLIB_H	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/nonstdlib.h	11
+Us	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring.c	/^static const int Us = 1000000;$/
+Ms	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring.c	/^static const int Ms = 1000;$/
+millis	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring.c	/^unsigned long millis(void)$/
+micros	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring.c	/^unsigned long micros(void)$/
+delay	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring.c	/^void delay(unsigned long Time)$/
+delayMicroseconds	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring.c	/^void delayMicroseconds(uint16_t Time)$/
+Ctrduty	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^static const int Ctrduty = 6;$/
+Dutyperiod	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^static const int Dutyperiod = 0x1010101;   $/
+SE_0	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_0  = 0x08;              \/\/ ch0  single ended  $/
+SE_1	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_1  = 0x09;$/
+SE_2	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_2  = 0x0A;$/
+SE_3	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_3  = 0x0B;$/
+SE_4	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_4  = 0x0C;$/
+SE_5	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_5  = 0x0D;$/
+SE_6	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_6  = 0x0E;$/
+SE_7	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   SE_7  = 0x0F;$/
+D_01	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_01  = 0x00;             \/\/ 0+\/1-  differential $/
+D_10	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_10  = 0x01;             \/\/ 1+\/0-$/
+D_23	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_23  = 0x02;             \/\/ 2+\/3-$/
+D_32	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_32  = 0x03;             \/\/ 3+\/2- $/
+D_45	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_45  = 0x04;             \/\/ 4+\/5-$/
+D_54	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_54  = 0x05;             \/\/ 5+\/4-$/
+D_67	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_67  = 0x06;             \/\/ 6+\/7-$/
+D_76	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^const char   D_76  = 0x07;             \/\/ 7+\/6-  $/
+adcChannel2SE	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^static const int adcChannel2SE[8] = {SE_0, SE_1, SE_2, SE_3, SE_4, SE_5, SE_6, SE_7};$/
+clockDelay	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^static const int clockDelay = 400;$/
+cs	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^volatile int  cs;$/
+clk	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^volatile int  clk;$/
+dio	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^volatile int  dio;$/
+init	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^void init( int cspin, int clkpin, int diopin )$/
+finalize	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^void finalize()$/
+do_adc_cmd	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^int do_adc_cmd( int mux ) $/
+read_adc_channel	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^int read_adc_channel( int ch_mode )$/
+analogRead	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^int analogRead(uint8_t adcChannel)$/
+analogReference	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^void analogReference(uint8_t mode)$/
+analogWrite	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_analog.c	/^void analogWrite(uint8_t pin, int duty)$/
+pinMode	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_digital.c	/^void pinMode(uint8_t pin, uint8_t mode)$/
+digitalWrite	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_digital.c	/^void digitalWrite(uint8_t pin, uint8_t value)$/
+digitalRead	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_digital.c	/^int digitalRead(uint8_t pin)$/
+Us	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_pulse.c	/^static const int Us = 1000000;$/
+Pulsin_clk	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_pulse.c	/^static int32_t Pulsin_clk(int32_t Pin, int32_t State)$/
+pulseIn	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_pulse.c	/^unsigned long pulseIn(uint8_t pin, uint8_t state, unsigned long timeout)$/
+pulseOut	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_pulse.c	/^void pulseOut(uint8_t pin, unsigned long duration)$/
+shiftIn	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_shift.c	/^uint8_t shiftIn(uint8_t dataPin, uint8_t clockPin, uint8_t bitOrder) {$/
+shiftOut	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/wiring_shift.c	/^void shiftOut(uint8_t dataPin, uint8_t clockPin, uint8_t bitOrder, uint8_t val)$/
+setup	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/main.cpp	/^__attribute__ ((weak)) void setup(void)$/
+loop	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/main.cpp	/^__attribute__ ((weak)) void loop(void)$/
+main	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/main.cpp	/^int main(void)$/
+Stepper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.cpp	/^Stepper::Stepper(int number_of_steps, int motor_pin_1, int motor_pin_2)$/
+Stepper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.cpp	/^Stepper::Stepper(int number_of_steps, int motor_pin_1, int motor_pin_2, int motor_pin_3, int motor_pin_4)$/
+setSpeed	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.cpp	/^void Stepper::setSpeed(long whatSpeed)$/
+step	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.cpp	/^void Stepper::step(int steps_to_move)$/
+stepMotor	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.cpp	/^void Stepper::stepMotor(int thisStep)$/
+version	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.cpp	/^int Stepper::version(void)$/
+Stepper_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	46
+Stepper	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^class Stepper {$/
+direction	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int direction;        \/\/ Direction of rotation$/
+speed	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int speed;          \/\/ Speed in RPMs$/
+step_delay	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    unsigned long step_delay;    \/\/ delay between steps, in ms, based on speed$/
+number_of_steps	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int number_of_steps;      \/\/ total number of steps this motor can take$/
+pin_count	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int pin_count;        \/\/ whether you're driving the motor with 2 or 4 pins$/
+step_number	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int step_number;        \/\/ which step the motor is on$/
+motor_pin_1	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int motor_pin_1;$/
+motor_pin_2	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int motor_pin_2;$/
+motor_pin_3	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int motor_pin_3;$/
+motor_pin_4	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    int motor_pin_4;$/
+last_step_time	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Stepper.h	/^    long last_step_time;      \/\/ time stamp in ms of when the last step was taken$/
+available	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^int Serial_::available(void)$/
+begin	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^void Serial_::begin(uint16_t baud_count)$/
+end	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^void Serial_::end(void)$/
+flush	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^void Serial_::flush(void)$/
+print	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^void Serial_::print(const char * str)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^void Serial_::println(long num)$/
+println	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^void Serial_::println(const char * str)$/
+read	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^int Serial_::read(void)$/
+Serial	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.cpp	/^Serial_ Serial;/
+Serial_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.h	10
+Serial_	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Serial.h	/^class Serial_$/
+Interval_h	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	21
+MAX_INTERVALS	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	25
+INVALID_CALLBACK	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	26
+IntervalCallback	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^typedef void (*IntervalCallback)(void *par);$/
+Interval	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^class Interval$/
+Intervals	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^  class Intervals$/
+_callback	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^      IntervalCallback _callback;$/
+_interval	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^      int32_t          _interval;$/
+_lastTime	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^      int32_t          _lastTime;$/
+_blob	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^      void *           _blob;$/
+Intervals	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^      Intervals() : _callback(-1), _interval(-1), _lastTime(0), _blob(null) { }$/
+_slots	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^  static volatile Intervals _slots[MAX_INTERVALS];$/
+_intervalCog	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^  static volatile unsigned int _intervalCog;  \/\/ Cog initialazied to zero$/
+_lockID	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.h	/^  static volatile unsigned int _lockID;       \/\/ Lock ID $/
+stack	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.cpp	/^unsigned int stack[(160 + (90 * 4)) \/ 4];$/
+_slots	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.cpp	/^volatile Interval::Intervals Interval::_slots[MAX_INTERVALS];$/
+_intervalCog	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.cpp	/^volatile unsigned int Interval::_intervalCog = 0;$/
+_lockID	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.cpp	/^volatile unsigned int Interval::_lockID = locknew();$/
+attach	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.cpp	/^uint8_t Interval::attach(IntervalCallback callback, int16_t interval, void * blob)$/
+detach	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.cpp	/^void Interval::detach()$/
+intervalLoop	C:/Users/Martin/Documents/SimpleIDE/My Projects/Learn/Simple Libraries/libArduino/libPropelleruino/Interval.cpp	/^void Interval::intervalLoop(void *par)$/

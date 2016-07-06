@@ -1,0 +1,11 @@
+AnalogInput.cpp
+-I ../../libPropelleruino
+-L ../../libPropelleruino
+>compiler=C++
+>memtype=cmm main ram compact
+>optimize=-Os
+>-fno-exceptions
+>-fno-rtti
+>defs::-std=c99
+>linker::-lPropelleruino
+>BOARD::ACTIVITYBOARD

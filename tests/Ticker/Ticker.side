@@ -1,0 +1,12 @@
+Ticker.cpp
+-I ../../libPropelleruino
+-L ../../libPropelleruino
+>compiler=C++
+>memtype=cmm main ram compact
+>optimize=-Os
+>-m32bit-doubles
+>-fno-exceptions
+>-fno-rtti
+>defs::-ffunction-sections -fdata-sections -Wl,--gc-sections -Wl,--print-gc-sections
+>linker::-lPropelleruino
+>BOARD::ASC
