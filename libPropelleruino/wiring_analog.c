@@ -3,36 +3,36 @@
  * @brief Provides Arduino types and functions on the Propeller
  *
  * Copyright (c) 2013 by Martin Heermance
- * ASC ADC Code Copyright (c) 2013 Michael Swartzendruber 
+ * ASC ADC Code Copyright (c) 2013 Michael Swartzendruber
  * MIT Licensed
  */
 
 #include <Arduino.h>
 
 static const int Ctrduty = 6;
-static const int Dutyperiod = 0x1010101;   
+static const int Dutyperiod = 0x1010101;
 
 // Assume Propeller ASC for analogRead for now.
 // Note the code below is an Arduino-fied version of code given
 // to me by Michael Swartzendruber in the Parallax forum.
 
-const char   SE_0  = 0x08;              // ch0  single ended  
-const char   SE_1  = 0x09;
-const char   SE_2  = 0x0A;
-const char   SE_3  = 0x0B;
-const char   SE_4  = 0x0C;
-const char   SE_5  = 0x0D;
-const char   SE_6  = 0x0E;
-const char   SE_7  = 0x0F;
+#define      SE_0    0x08              // ch0  single ended
+#define      SE_1    0x09
+#define      SE_2    0x0A
+#define      SE_3    0x0B
+#define      SE_4    0x0C
+#define      SE_5    0x0D
+#define      SE_6    0x0E
+#define      SE_7    0x0F
 
-const char   D_01  = 0x00;             // 0+/1-  differential 
-const char   D_10  = 0x01;             // 1+/0-
-const char   D_23  = 0x02;             // 2+/3-
-const char   D_32  = 0x03;             // 3+/2- 
-const char   D_45  = 0x04;             // 4+/5-
-const char   D_54  = 0x05;             // 5+/4-
-const char   D_67  = 0x06;             // 6+/7-
-const char   D_76  = 0x07;             // 7+/6-  
+#define      D_01    0x00             // 0+/1-  differential
+#define      D_10    0x01             // 1+/0-
+#define      D_23    0x02             // 2+/3-
+#define      D_32    0x03             // 3+/2-
+#define      D_45    0x04             // 4+/5-
+#define      D_54    0x05             // 5+/4-
+#define      D_67    0x06             // 6+/7-
+#define      D_76    0x07             // 7+/6-
 
 static const int adcChannel2SE[8] = {SE_0, SE_1, SE_2, SE_3, SE_4, SE_5, SE_6, SE_7};
 static const int clockDelay = 400;
@@ -62,7 +62,7 @@ void finalize()
   pinMode( dio, INPUT );
 }
 
-int do_adc_cmd( int mux ) 
+int do_adc_cmd( int mux )
 {
   int level = 0;
   int counter;
@@ -74,7 +74,7 @@ int do_adc_cmd( int mux )
   pinMode( dio, OUTPUT );                                       // dio is output
 
   // output mux bits, MSBFIRST
-  
+
   for ( counter = 0; counter < 5; counter++ )
   { // send mux bits
     digitalWrite(dio, (mux & 0x10) ? HIGH : LOW);
@@ -86,10 +86,10 @@ int do_adc_cmd( int mux )
   }
 
   // input data bits, MSBPOST
-  
+
   pinMode( dio, INPUT );                                        // dio is input
 
-  level = 0;                                                    // clear work var  
+  level = 0;                                                    // clear work var
 
   for ( counter = 0; counter < 13; counter++ )
   { // null + 12 data bits
@@ -101,7 +101,7 @@ int do_adc_cmd( int mux )
   }
 
   digitalWrite( cs, HIGH );                                     // de-activate adc
-  
+
   return( level & 0x0fff );
 }
 
@@ -113,7 +113,7 @@ int read_adc_channel( int ch_mode )
 
   adc_cmd = 0x10 | ch_mode ;  // create mux bits
 
-  return do_adc_cmd( adc_cmd ); 
+  return do_adc_cmd( adc_cmd );
 }
 
 int analogRead(uint8_t adcChannel)
